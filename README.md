@@ -1,20 +1,5 @@
 # 📌 Mohamed Yasser
 
-**Learning programming and growing my skills step-by-step.**  
-Currently focused on:
-
-- 🐍 Python basics and problem solving
-- 🎨 Frontend development (HTML, CSS, JavaScript, React.js)
-
-**I believe in continuous learning, practice, and real-world projects.**  
-🚀 Open to collaborations, projects, and new challenges.
-
----
-
-## 📚 Current Learning Path:
-- Deepen my knowledge in Python
-- Build frontend projects using HTML, CSS, JavaScript, and React.js
-- Step by step towards full-stack development in the future
 
 ---
 
